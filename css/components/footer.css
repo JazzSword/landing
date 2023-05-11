@@ -1,0 +1,19 @@
+.footer {
+  background-color: #2c2b2b;
+  text-align: center;
+  padding: 60px;
+}
+
+.footer p {
+  color: #6B6C6C;
+  opacity: 0.7;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+}
